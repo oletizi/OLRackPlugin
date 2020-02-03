@@ -1,0 +1,25 @@
+{
+  "slug": "OLPlugin",
+  "name": "OLPlugin",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "OLPlugin",
+  "author": "Orion Letizi",
+  "authorEmail": "oletizi@mac.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "TestModule",
+      "name": "TestModule",
+      "description": "A nice test module based on the plugin tutorial",
+      "tags": [
+        "test"
+      ]
+    }
+  ]
+}
